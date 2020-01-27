@@ -4,3 +4,29 @@ div {
   height: 65px;
   background-clip: content-box;
 }
+
+#first {
+  border: solid thin black;
+  padding: 10px 10px 10px 10px;
+}
+
+#second {
+  margin-top: 50px;
+  width: 65px;
+  height: 65px;
+  padding: 30px 60px 30px 60px;
+  border: solid black thin;
+}
+
+#third {
+  margin-top: 50px;
+  border: solid black thin;
+  height: 60px;
+  padding: 15px 15px 30px 15px;
+}
+
+#fourth {
+  margin-top: 50px;
+  border: solid black thin;
+  padding: 10px 120px 30px 220px;
+}
