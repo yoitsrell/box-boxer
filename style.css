@@ -1,0 +1,6 @@
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box;
+}
